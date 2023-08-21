@@ -7,14 +7,14 @@ The Line Follower is a robot built using Arduino. It functions by utilizing an I
 
 Based on the data received from the sensor, the Arduino makes decisions to guide the robot's movements. If the sensor detects no black line, the robot continues moving forward. However, if the left sensor detects a black line, the robot turns right, and if the right sensor detects a black line, it turns left. The robot halts when both sensors simultaneously detect a black line.
 
-Here is a list of the components required for this project:
+#####Here is a list of the components required for this project:
 
-1x Arduino Uno
-1x L298N motor driver module
-2x IR sensors
-14x wires
-1x Plexi (measuring 10cm x 17cm)
-4x TT motors
-6x AA batteries
-1x Battery holder
-8x 10mm metal spacers
+* 1x Arduino Uno
+* 1x L298N motor driver module
+* 2x IR sensors
+* 14x wires
+* 1x Plexi (measuring 10cm x 17cm)
+* 2x TT motors
+* 6x AA batteries
+* 1x Battery holder
+* 8x 10mm metal spacers
